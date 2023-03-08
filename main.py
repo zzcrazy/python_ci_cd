@@ -2,6 +2,7 @@ def main():
     print('ccc1223')
     sdf1=3
 aa=2
+ab=1
 if aa==1:
    print(23)
 
