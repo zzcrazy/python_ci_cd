@@ -1,2 +1,2 @@
 def main():
-    print('ccc122')
+    print('ccc1')
