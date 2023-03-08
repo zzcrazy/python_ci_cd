@@ -1,6 +1,6 @@
 name: Python workflow
 
-on:[push,pull_request]
+on:[push]
 
 jobs:
   python_ci:
