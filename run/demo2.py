@@ -79,5 +79,7 @@ async def create_item(item: Item, x_token: str = Header(...)):
     return item
   
 if __name__ == '__main__':
+
+    print(111)
     uvicorn.run(app="demo2:app", reload=True, host="127.0.0.1", port=8080)
 
